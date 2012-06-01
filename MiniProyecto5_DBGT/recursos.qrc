@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/next.png</file>
+        <file>images/back.png</file>
+        <file>images/window.png</file>
+        <file>images/DragonBallGT_logo.png</file>
+        <file>images/DBGT.jpg</file>
+    </qresource>
+</RCC>
